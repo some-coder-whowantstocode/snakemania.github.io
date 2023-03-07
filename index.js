@@ -11,6 +11,7 @@ let ans=0;
 let snakeArr = [
     {x:0,y:0}
 ]
+let highest = 0;
 
 let food = {x:0,y:-1}
 
